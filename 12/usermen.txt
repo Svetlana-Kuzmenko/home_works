@@ -1,0 +1,3 @@
+Alex;Petrov;12
+Ivan;Petrov;14
+Petr;Petrovich;20

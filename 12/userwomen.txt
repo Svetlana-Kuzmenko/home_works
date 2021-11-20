@@ -1,0 +1,4 @@
+Olga;Petrovna;24
+Irina;Olegovna;24
+Katerina;Krug;19
+Sofy;Braun;39

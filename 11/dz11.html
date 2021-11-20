@@ -1,0 +1,44 @@
+<html>
+<head>
+    <title>dz11</title>
+<link rel="stylesheet" href="dz11.css">
+    <style>
+        label{
+            width: 300px; display: inline-grid;
+        }
+        .attach{ color: black ; font-weight: bolder; font-style: normal; font-size: 16px}
+    </style>
+</head>
+<body>
+<form method="post" action="dz12.php" enctype="multipart/form-data">
+    <strong>
+        <label>First name:<input type="text" name="first name"/></label>
+    </strong>
+    <br/>
+    <br/>
+    <strong>
+        <label>Last name:<input type="text" name="last name"/></label></strong>
+    <br/>
+    <br/>
+    <strong>
+        <label>Age:<input type="text" name="age"/></label>
+    </strong>
+    <br/>
+    <br/>
+    <strong>
+         <label style="width: 400px; display: inline-block">
+             Gender: <input type="radio" name="gender" value="man"/>Man/<input type="radio" name="gender" value="women"/>Women</label>
+    </strong>
+    <br/>
+    <br/>
+    <span class="attach">
+        <label style="width: 400px; display: inline-block">
+            Attach: <input type="file" name="attach"/></label>
+    </span>
+    <br/>
+    <br/>
+    <span style="width: 70px; display: inline-block"></span><input type="submit"/>
+
+</form>
+</body>
+</html>

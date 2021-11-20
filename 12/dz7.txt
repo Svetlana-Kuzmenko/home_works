@@ -1,0 +1,12 @@
+FirstName;LastName;Age;Gender
+Alex;Petrov;12;Man
+Ivan;Petrov;14;Man
+Petr;Petrovich;20;Man
+Olga;Petrovna;24;Women
+Irina;Olegovich;24;Women
+Mike;Krug;19;Man
+John;Braun;39;Man
+Svetlana;Nikolaevna;35;women
+Denis;Aleksandrovich;34;man
+Nadejda;Denisovna;7;women
+Veronika;Denisovna;3;women
