@@ -10,3 +10,6 @@ Svetlana;Nikolaevna;35;women
 Denis;Aleksandrovich;34;man
 Nadejda;Denisovna;7;women
 Veronika;Denisovna;3;women
+Ivan;Bard;35;women
+Ivan;Bard;35;women
+For;Dor;70;man
